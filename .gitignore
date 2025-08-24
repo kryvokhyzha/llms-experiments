@@ -151,3 +151,6 @@ qdrant_storage/
 # temp
 TODO.txt
 temp*.py
+
+# private workshops
+099-aws-bedrock-workshop/
